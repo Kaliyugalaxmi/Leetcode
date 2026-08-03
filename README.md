@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Math
@@ -20,5 +21,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
