@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
