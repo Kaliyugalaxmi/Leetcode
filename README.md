@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
@@ -20,15 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -47,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
