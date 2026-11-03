@@ -62,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
