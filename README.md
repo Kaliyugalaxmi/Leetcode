@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1207-unique-number-of-occurrences](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1470-shuffle-the-array) |
 ## Math
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
