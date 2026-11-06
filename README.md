@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/0066-plus-one) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
@@ -81,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1603-design-parking-system) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kaliyugalaxmi/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
